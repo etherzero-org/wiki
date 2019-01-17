@@ -9,7 +9,7 @@
   *  [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Building-Etherzero)
   *  [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
   *  [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/power)
-  *  [How to become a masternode](https://mp.weixin.qq.com/s/ZrAoDi0VX6kGAQBqqShsqg)
+  *  [How to become a masternode](https://medium.com/@etherzero/tutorial-how-to-deploy-etherzero-masternode-step-by-step-adc5e5b08d3d)
 #### GoETZ
  * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
  *  [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Install-GoETZ)
