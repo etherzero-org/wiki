@@ -36,3 +36,12 @@
 
 #### etzscan chain browser
 * [etzscan chain browser](https://etzscan.com/)
+#### Find Us
+* [Wechat](./img/wechat.jpg)
+* [Telegram](https://t.me/EtherZeroCN)
+* [facebook](https://www.facebook.com/EtherZero-554760518194015/)
+* [twitter](https://twitter.com/etherzero_org)
+* [medium](https://medium.com/@etherzero)
+* [Youtube](https://www.youtube.com/channel/UCigdAIUQAHIdj-LnrTG1SVg?view_as=subscriber)
+* [weibo](https://weibo.com/etherzero)
+* [botcointali](https://bitcointalk.org/index.php?topic=2607526.0)
