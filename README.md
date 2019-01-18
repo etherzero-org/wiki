@@ -1,7 +1,7 @@
 # What is ETZ?
 
+* EtherZero (ETZ) is a new generation of smart contract platform (public chain) initiated by a group of professional and technical geeks. Its team members are from different countries in the world. EtherZero (ETZ) entity is registered in Singapore. In order to better serve DAPP developers and users, whether it is developing DAPP on the EtherZero chain, deploying smart contracts or user’s service, are all TX fee. In terms of transmission rate, EtherZero uses double-layer network structure, enabling TPS to reach tens of thousands of levels. The application of MasterNode enables EtherZero to achieve instant transmission function.
 
- #### EtherZero (ETZ) is a new generation of smart contract platform (public chain) initiated by a group of professional and technical geeks. Its team members are from different countries in the world. EtherZero (ETZ) entity is registered in Singapore. In order to better serve DAPP developers and users, whether it is developing DAPP on the EtherZero chain, deploying smart contracts or user’s service, are all TX fee. In terms of transmission rate, EtherZero uses double-layer network structure, enabling TPS to reach tens of thousands of levels. The application of MasterNode enables EtherZero to achieve instant transmission function.
  #### Offical Website 
  * [ETZ Offical Website](https://etherzero.org)
  #### go-etherzero
@@ -10,6 +10,7 @@
   *  [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
   *  [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/power)
   *  [How to become a masternode](https://medium.com/@etherzero/tutorial-how-to-deploy-etherzero-masternode-step-by-step-adc5e5b08d3d)
+
 #### GoETZ
  * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
  *  [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Install-GoETZ)
