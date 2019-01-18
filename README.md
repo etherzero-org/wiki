@@ -37,11 +37,11 @@
 #### etzscan chain browser
 * [etzscan chain browser](https://etzscan.com/)
 #### Find Us
-* [Wechat](./img/wechat.jpg)
+* [Botcointalk](https://bitcointalk.org/index.php?topic=2607526.0)
+* [Facebook](https://www.facebook.com/EtherZero-554760518194015/)
+* [Medium](https://medium.com/@etherzero)
 * [Telegram](https://t.me/EtherZeroCN)
-* [facebook](https://www.facebook.com/EtherZero-554760518194015/)
-* [twitter](https://twitter.com/etherzero_org)
-* [medium](https://medium.com/@etherzero)
+* [Twitter](https://twitter.com/etherzero_org)
+* [Wechat](./img/wechat.jpg)
+* [Weibo](https://weibo.com/etherzero)
 * [Youtube](https://www.youtube.com/channel/UCigdAIUQAHIdj-LnrTG1SVg?view_as=subscriber)
-* [weibo](https://weibo.com/etherzero)
-* [botcointalk](https://bitcointalk.org/index.php?topic=2607526.0)
