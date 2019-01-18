@@ -44,4 +44,4 @@
 * [medium](https://medium.com/@etherzero)
 * [Youtube](https://www.youtube.com/channel/UCigdAIUQAHIdj-LnrTG1SVg?view_as=subscriber)
 * [weibo](https://weibo.com/etherzero)
-* [botcointali](https://bitcointalk.org/index.php?topic=2607526.0)
+* [botcointalk](https://bitcointalk.org/index.php?topic=2607526.0)
