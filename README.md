@@ -7,8 +7,10 @@
 #### go-etherzero
 * [Geth source ](https://github.com/etherzero-org/go-etherzero)
 * [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Building-Etherzero)
-* [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
 * [How to become a masternode](https://medium.com/@etherzero/tutorial-how-to-deploy-etherzero-masternode-step-by-step-adc5e5b08d3d)
+##### consensus
+* [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
+* [以太零MPoS的不可能与可能](https://etherzero.gitbook.io/doc/shen-du-jie-du-yi-tai-ling-mpos-de-bu-ke-neng-yu-ke-neng)
 ##### Power Mechanism
 * [以太零Power值详解](https://etherzero.gitbook.io/doc/power)
 * [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
