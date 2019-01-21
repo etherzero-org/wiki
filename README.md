@@ -15,7 +15,7 @@
 
 #### GoETZ
 * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
-*  [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Install-GoETZ)
+* [Installation Instructions](./file/Install-GoETZ.md)
 
 #### EasyETZ APP Wallet
 ##### Android
