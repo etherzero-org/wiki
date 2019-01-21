@@ -8,8 +8,10 @@
 * [Geth source ](https://github.com/etherzero-org/go-etherzero)
 * [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Building-Etherzero)
 * [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
-* [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/power)
 * [How to become a masternode](https://medium.com/@etherzero/tutorial-how-to-deploy-etherzero-masternode-step-by-step-adc5e5b08d3d)
+##### Power Mechanism
+* [以太零Power值详解](https://etherzero.gitbook.io/doc/power)
+* [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
 
 #### GoETZ
 * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
@@ -39,11 +41,4 @@
 * [etzscan chain browser](https://etzscan.com/)
 
 #### Find Us
-* [Botcointalk](https://bitcointalk.org/index.php?topic=2607526.0)
-* [Facebook](https://www.facebook.com/EtherZero-554760518194015/)
-* [Medium](https://medium.com/@etherzero)
-* [Telegram](https://t.me/EtherZeroCN)
-* [Twitter](https://twitter.com/etherzero_org)
-* [Wechat](./img/wechat.jpg)
-* [Weibo](https://weibo.com/etherzero)
-* [Youtube](https://www.youtube.com/channel/UCigdAIUQAHIdj-LnrTG1SVg?view_as=subscriber)
+* [Botcointalk](https://bitcointalk.org/index.php?topic=2607526.0) | [Facebook](https://www.facebook.com/EtherZero-554760518194015/) | [Medium](https://medium.com/@etherzero) |  [Telegram](https://t.me/EtherZeroCN) | [Twitter](https://twitter.com/etherzero_org) | [Wechat](./img/wechat.jpg) | [Weibo](https://weibo.com/etherzero) | [Youtube](https://www.youtube.com/channel/UCigdAIUQAHIdj-LnrTG1SVg?view_as=subscriber)
