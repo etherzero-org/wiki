@@ -18,6 +18,7 @@
 #### GoETZ
 * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
 * [Installation Instructions](./file/Install-GoETZ.md)
+* [How Your DAPP Migrate To ETZ ](./file/how-your-dapp-migrate-to-etz.md)
 
 #### EasyETZ APP Wallet
 ##### Android
