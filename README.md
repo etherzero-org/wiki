@@ -14,7 +14,7 @@
 ##### Power Mechanism
 * [以太零Power值详解](https://etherzero.gitbook.io/doc/power)
 * [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
-
+* [The Power Mechanism Of Etherzero](./file/the-power-mechanism)
 #### GoETZ
 * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
 * [Installation Instructions](./file/Install-GoETZ.md)
