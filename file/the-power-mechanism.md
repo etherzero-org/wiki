@@ -10,7 +10,7 @@
 eth.getPower("your address")
 web3.fromWei(eth.getPower("your address"), "ether")
 ```
-![avatar](./power-console.png)
+![avatar](../img/power-console.png)
 #### 二,Two attributes:
 * 1,The maximum of Power( related to the balance of account)
 
@@ -50,10 +50,10 @@ Then the gas for this account is  Gas = 0.0036 / 0.000000036 = 100000
 So , if GasPrice  is 36Gwei, this account cannot send transaction which gas  is larger than 10,0000
 ```
 
-![avatar](./exp-001.png)
+![avatar](../img/exp-001.png)
 * 4,The PowerSpeed for one account regain 
 PowerSpeed = (Math.exp(-1/(x*2)*1000)*200000+1000)*0.000000018
-![avatar](./exp-002.png)
+![avatar](../img/exp-002.png)
 ```
 
 eg ,for one account which balance is 0, at block number 100, its balance become 0.01 etz
@@ -71,8 +71,8 @@ At 401 block number,Power = (401 - 100) * 0.000018 = 0.0036 （not increasing an
 
 * After block number 401，for 0.01 ETZ of this account ,it has reached the ceil for the power mechanism ，if need more Power, add the balance of this account .
 
-![avatar](./goetz.png)
+![avatar](../img/goetz.png)
 
 #### 四,Balance-Power Statistics list
-![avatar](./statistics.png)
+![avatar](../img/statistics.png)
 * You may find for  an account which is 0.01 etz，in the single transaction, the Gas will 360,0000(Assuming the GasPrice is 1 Gwei).
