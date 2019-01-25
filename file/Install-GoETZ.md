@@ -11,5 +11,5 @@ How to install GoETZ in Google Chrome?
  
 * 5. drag the  GoETZ（.crx）into chrome.
  
-* 6. finished the tutorials
+* 6. finished the [tutorials](./img/tutorials-goetz.png)
 
