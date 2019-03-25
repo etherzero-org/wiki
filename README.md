@@ -3,22 +3,31 @@
 
  #### Offical Website 
  * [ETZ Offical Website](https://etherzero.org)
+#### web3j
+* [web3j](https://github.com/etherzero-org/web3j)
+* [docsweb3j](https://docs.web3j.io/getting_started.html#maven)
+* As Etherzero is instant payments,we recommand strongly that you may set your confirmations by 120 blocks.
+
+#### GoETZ
+* [GoETZ Source](https://github.com/etherzero-org/GoETZ)
+* [Installation Instructions](./file/Install-GoETZ.md)
+* [How Your DAPP Migrate To ETZ ](./file/how-your-dapp-migrate-to-etz.md)
 
 #### go-etherzero
 * [Geth source ](https://github.com/etherzero-org/go-etherzero)
 * [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Building-Etherzero)
 * [How to become a masternode](https://medium.com/@etherzero/tutorial-how-to-deploy-etherzero-masternode-step-by-step-adc5e5b08d3d)
-##### consensus
+#### How to create a new etherzero account
+* [geth console]()
+* [GoETZ APP]()
+* [GOETZ  Chrome Extension]()
+#### consensus
 * [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
 * [以太零MPoS的不可能与可能](https://etherzero.gitbook.io/doc/shen-du-jie-du-yi-tai-ling-mpos-de-bu-ke-neng-yu-ke-neng)
 ##### Power Mechanism
 * [以太零Power值详解](https://etherzero.gitbook.io/doc/power)
 * [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
 * [The Power Mechanism Of Etherzero](./file/the-power-mechanism.md)
-#### GoETZ
-* [GoETZ Source](https://github.com/etherzero-org/GoETZ)
-* [Installation Instructions](./file/Install-GoETZ.md)
-* [How Your DAPP Migrate To ETZ ](./file/how-your-dapp-migrate-to-etz.md)
 
 #### EasyETZ APP Wallet
 ##### Android
