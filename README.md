@@ -6,7 +6,8 @@
 #### web3j
 * [web3j](https://github.com/etherzero-org/web3j)
 * [docsweb3j](https://docs.web3j.io/getting_started.html#maven)
-* As Etherzero is instant payments,we recommand strongly that you may set your confirmations by 120 blocks.
+* As Etherzero is instant payments, for your assets' safety, we recommand strongly that you may set your confirmations by 120 blocks.
+
 
 #### GoETZ
 * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
