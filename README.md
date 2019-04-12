@@ -20,8 +20,8 @@
 * [How to become a masternode](https://medium.com/@etherzero/tutorial-how-to-deploy-etherzero-masternode-step-by-step-adc5e5b08d3d)
 #### How to create a new etherzero account
 * [geth console]()
-* [GoETZ APP]()
-* [GOETZ  Chrome Extension]()
+* [GoETZ APP](https://easyetz.io/download.html)
+* [GOETZ  Chrome Extension](https://github.com/etherzero-org/GoETZ/blob/etz_version/docs/add_to_chrome.md)
 #### consensus
 * [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
 * [以太零MPoS的不可能与可能](https://etherzero.gitbook.io/doc/shen-du-jie-du-yi-tai-ling-mpos-de-bu-ke-neng-yu-ke-neng)
