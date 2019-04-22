@@ -1,8 +1,10 @@
 # What is ETZ?
 * EtherZero (ETZ) is a new generation of smart contract platform (public chain) initiated by a group of professional and technical geeks. Its team members are from different countries in the world. EtherZero (ETZ) entity is registered in Singapore. In order to better serve DAPP developers and users, whether it is developing DAPP on the EtherZero chain, deploying smart contracts or user’s service, are all TX fee. In terms of transmission rate, EtherZero uses double-layer network structure, enabling TPS to reach tens of thousands of levels. The application of MasterNode enables EtherZero to achieve instant transmission function.
 
- #### Offical Website 
+#### Offical Website 
  * [ETZ Offical Website](https://etherzero.org)
+
+#### [How To Migrate ETZ To Your Own Wallet](./file/How-To-Migrate-ETZ-To-Your-Own-Wallet.md)
 #### web3j
 * [web3j](https://github.com/etherzero-org/web3j)
 * [docsweb3j](https://docs.web3j.io/getting_started.html#maven)
