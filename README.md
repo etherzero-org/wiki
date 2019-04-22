@@ -4,7 +4,9 @@
 #### Offical Website 
  * [ETZ Offical Website](https://etherzero.org)
 
-#### [How To Migrate ETZ To Your Own Wallet](./file/How-To-Migrate-ETZ-To-Your-Own-Wallet.md)
+#### Develop Your own Wallet
+* [How To Migrate ETZ To Your Own Wallet](./file/How-To-Migrate-ETZ-To-Your-Own-Wallet.md)
+
 #### web3j
 * [web3j](https://github.com/etherzero-org/web3j)
 * [docsweb3j](https://docs.web3j.io/getting_started.html#maven)
