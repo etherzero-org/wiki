@@ -3,16 +3,19 @@
 
 #### Offical Website 
  * [ETZ Offical Website](https://etherzero.org)
-
+##### Power Mechanism
+* [以太零Power值详解](https://etherzero.gitbook.io/doc/power)
+* [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
+* [The Power Mechanism Of Etherzero](./file/the-power-mechanism.md)
+#### consensus
+* [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
+* [以太零MPoS的不可能与可能](https://etherzero.gitbook.io/doc/shen-du-jie-du-yi-tai-ling-mpos-de-bu-ke-neng-yu-ke-neng)
 #### Develop Your own Wallet
 * [How To Migrate ETZ To Your Own Wallet](./file/How-To-Migrate-ETZ-To-Your-Own-Wallet.md)
-
 #### web3j
 * [web3j](https://github.com/etherzero-org/web3j)
 * [docsweb3j](https://docs.web3j.io/getting_started.html#maven)
 * As Etherzero is instant payments, for your assets' safety, we recommand strongly that you may set your confirmations by 120 blocks.
-
-
 #### GoETZ
 * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
 * [Installation Instructions](./file/Install-GoETZ.md)
@@ -26,13 +29,6 @@
 * [geth console]()
 * [GoETZ APP](https://easyetz.io/download.html)
 * [GOETZ  Chrome Extension](https://github.com/etherzero-org/GoETZ/blob/etz_version/docs/add_to_chrome.md)
-#### consensus
-* [MPOS](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
-* [以太零MPoS的不可能与可能](https://etherzero.gitbook.io/doc/shen-du-jie-du-yi-tai-ling-mpos-de-bu-ke-neng-yu-ke-neng)
-##### Power Mechanism
-* [以太零Power值详解](https://etherzero.gitbook.io/doc/power)
-* [Etherzero Power Mechanism](https://etherzero.gitbook.io/doc/etherzeros-mpos-mechanism)
-* [The Power Mechanism Of Etherzero](./file/the-power-mechanism.md)
 
 #### EasyETZ APP Wallet
 ##### Android
