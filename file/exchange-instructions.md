@@ -1,4 +1,4 @@
-# How To run geth node from an exchange
+# How To run etherzero node from an exchange
 
 ```make special node for exchanges
 git clone https://github.com/etherzero-org/go-etherzero
