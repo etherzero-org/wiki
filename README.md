@@ -6,7 +6,7 @@
 
 #### For Exchanges Only
 
-* For any digital  Encrypted Currency Exchange, it is necessary to have their own independent geth node to secure their assets,here is the [instructions](./file/exchange-instructions.md)
+* For any digital Encrypted Currency Exchange, it is necessary to have their own independent geth node to secure their assets,here is the [instructions](./file/exchange-instructions.md)
 
 ##### Power Mechanism
 * [以太零Power值详解](https://etherzero.gitbook.io/doc/power)
