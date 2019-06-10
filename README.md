@@ -17,10 +17,13 @@
 * [以太零MPoS的不可能与可能](https://etherzero.gitbook.io/doc/shen-du-jie-du-yi-tai-ling-mpos-de-bu-ke-neng-yu-ke-neng)
 #### Develop Your own Wallet
 * [How To Migrate ETZ To Your Own Wallet](./file/How-To-Migrate-ETZ-To-Your-Own-Wallet.md)
-#### web3j
-* [web3j](https://github.com/etherzero-org/web3j)
-* [docsweb3j](https://docs.web3j.io/getting_started.html#maven)
+#### web3j,for java
+* [package repository](https://github.com/etherzero-org/web3j)
+* [docs about web3j](https://docs.web3j.io/getting_started.html#maven)
 * As Etherzero is instant payments, for your assets' safety, we recommand strongly that you may set your confirmations by 120 blocks.
+#### Web3,for js
+* [package repository](https://github.com/etherzero-org/web3.js)
+* [docs abour web3](./file/how-your-dapp-migrate-to-etz.md)
 #### GoETZ
 * [GoETZ Source](https://github.com/etherzero-org/GoETZ)
 * [Installation Instructions](./file/Install-GoETZ.md)
@@ -48,9 +51,6 @@
 * [remix](https://github.com/etherzero-org/remix)
 * [remix-ide](https://github.com/etherzero-org/remix-ide) 
 * [Installation Instructions](https://github.com/etherzero-org/go-etherzero/wiki/Install-GoETZ)
-
-#### Web3
-* [source](https://github.com/etherzero-org/web3.js)
  
 #### white paper
 * [white paper](https://etherzero.org/ETZ_WhitePaper_cn2.0.pdf)   
