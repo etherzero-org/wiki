@@ -7,5 +7,7 @@ nohup ~/go-etherzero/build/bin/geth --maxpeers 50 --rpc --rpcport 9645 --rpcaddr
 ```
 
 > The golang version should >= 1.10.
+
 > The ```--rpcaddr 127.0.0.1 ``` and ``` --wsaddr 127.0.0.1 ```,allow you use this rpc and ws in this geth node only,when you want to use the geth node from other nodes, you may use ```--rpcaddr 0.0.0.0 ``` and  ``` --wsaddr 0.0.0.0 ``` and then  set the IP access limitations . 
+
 > As Etherzero is instant payments, for your assets' safety, we recommand strongly that you may set your confirmations by 120 blocks.
