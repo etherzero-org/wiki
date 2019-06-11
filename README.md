@@ -20,7 +20,6 @@
 #### web3j,for java
 * [package repository](https://github.com/etherzero-org/web3j)
 * [docs about web3j](https://docs.web3j.io/getting_started.html#maven)
-* As Etherzero is instant payments, for your assets' safety, we recommand strongly that you may set your confirmations by 120 blocks.
 #### Web3,for js
 * [package repository](https://github.com/etherzero-org/web3.js)
 * [docs abour web3](./file/how-your-dapp-migrate-to-etz.md)
